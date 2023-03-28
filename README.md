@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a tea website shop<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with Backend developement<br>🌱 I’m currently learning The mobil developement<br>💬 Ask me about Cyber Security
+🔭 I’m currently working on a tea website shop<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with Backend web developement<br>🌱 I’m currently learning The mobile developement<br>💬 Ask me about nothing
 
 
 ## 🌐 Socials:
