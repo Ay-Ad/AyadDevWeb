@@ -1,6 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on a tea website shop<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with Backend web developement<br>🌱 I’m currently learning The mobile developement<br>💬 Ask me about nothing
-
+🔭 I’m currently working on a Python Game<br>
+🤝 I’m looking for help with Pyton and back-end web developement<br>
+🌱 I’m currently learning The mobile developement
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayoub-adouche-8aa94a220/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Ay-Ad) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Ay_Ad08) 
